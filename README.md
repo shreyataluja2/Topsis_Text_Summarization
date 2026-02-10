@@ -20,7 +20,7 @@ This project evaluates pretrained text summarization models (T5, Flan-T5) using 
 
 ### Option 1: Google Colab (Recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/angad2803/Data-Science-Assgns/blob/main/gpu_topsis_summarization/topsis_evaluation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](topsis_gpu_eval.py)
 
 **Just click and run!** Colab provides free GPU access.
 
